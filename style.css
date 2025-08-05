@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.myClass {
+  background-color: aquamarine;
+}
+#myId {
+  background-color: palevioletred;
+}
+
+.sectiontag {
+display: flex;
+}
+.formtag{
+ margin: 20px;
+ width: 50%;
+}
+.tabletag {
+ margin: 20px;
+}
